@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 	s.requires_arc = true
 
 	s.dependency 'Brightcove-Player-Core/dynamic', '6.3.11'
-	s.dependency 'GoogleAds-IMA-iOS-SDK', '3.7.0.1'
+	s.dependency 'GoogleAds-IMA-iOS-SDK', '3.7.2'
 	
 	s.vendored_framework   = "ios/BrightcoveIMA.framework"
 
