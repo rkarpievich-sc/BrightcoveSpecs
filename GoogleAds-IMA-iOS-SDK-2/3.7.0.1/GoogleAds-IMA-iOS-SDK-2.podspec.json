@@ -15,8 +15,8 @@
   "source": {
     "http": "https://dl.google.com/in-stream/google_sdk/ios/GoogleInteractiveMediaAds-ios-3.7.0.zip"
   },
-  "vendored_frameworks": "GoogleInteractiveMediaAds/GoogleInteractiveMediaAds.framework",
-  "preserve_paths": "GoogleInteractiveMediaAds/GoogleInteractiveMediaAds.framework",
+  "vendored_frameworks": "GoogleInteractiveMediaAds/GoogleInteractiveMediaAds2.framework",
+  "preserve_paths": "GoogleInteractiveMediaAds/GoogleInteractiveMediaAds2.framework",
   "frameworks": [
     "AdSupport",
     "AudioToolbox",
