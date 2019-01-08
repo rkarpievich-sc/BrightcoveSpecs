@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
 	s.dependency 'Brightcove-Player-Core/dynamic', '6.3.11'
 # 	s.dependency 'GoogleAds-IMA-iOS-SDK', '3.7.0'
-	s.weak_framework = 'GoogleAds-IMA-iOS-SDK', '3.7.2'
+	s.weak_framework = 'GoogleAds-IMA-iOS-SDK'
 	
 	s.vendored_framework   = "ios/BrightcoveIMA.framework"
 
