@@ -51,7 +51,7 @@ Pod::Spec.new do |s|
 	s.dependency 'FBSDKShareKit', '= 4.38.0'
 	s.dependency 'FBNotifications', '= 1.0.1'
 	s.dependency 'SSZipArchive', '= 2.1.0'
-	#s.dependency 'GoogleAds-IMA-iOS-SDK', '= 3.7.0.1'
+	s.dependency 'GoogleAds-IMA-iOS-SDK', '= 3.7.2'
 	s.dependency 'TwitterKit', '= 3.3.0'
 	s.dependency 'TwitterCore', '= 3.1.0'
 
